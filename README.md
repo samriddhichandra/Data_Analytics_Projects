@@ -623,3 +623,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## E-Commerce Section
 
 ## Churn Section
+
+## Streaming Section
