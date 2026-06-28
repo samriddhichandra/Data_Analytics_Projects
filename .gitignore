@@ -365,6 +365,12 @@ Thumbs.db
 # Keep .gitignore (already tracked)
 # Keep Python scripts (already tracked)
 
+# Exclude utility/helper scripts (not part of main project)
+generate_commits.py
+create_commits.sh
+create_commits.bat
+PUSH_TO_GITHUB.md
+
 # Exclude generated databases (will be regenerated)
 ecommerce_data.db
 streaming_data.db
