@@ -516,22 +516,6 @@ This is a portfolio project. Feel free to:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - feel free to use for learning and portfolio purposes.
-
----
-
-## Author
-
-**Samriddhi Chandra**
-
-- GitHub: [@samriddhichandra](https://github.com/samriddhichandra)
-- LinkedIn: [Samriddhi Chandra](https://linkedin.com/in/samriddhichandra)
-- Email: samriddhi.chandra@example.com
-
----
-
 ## Acknowledgments
 
 - Dataset inspiration from real-world e-commerce, telecom, and streaming platforms
@@ -608,50 +592,8 @@ Future enhancements (optional):
 
 ---
 
-## Star History
-
-If you found this portfolio helpful, please consider giving it a star!
-
----
-
 **Last Updated**: 2026  
 **Version**: 1.0.0  
 **Status**: Production Ready
 
-## Documentation Update
-
-## E-Commerce Section
-
-## Churn Section
-
-## Streaming Section
-
-## Tech Stack
-
-## Schema
-
-## Usage
-
-## Performance
-
-## Testing
-
-## Scripts
-
-## GitHub URL
-
-## Demo Images
-
-## Statistics
-
-## Author
-
-# Production Ready
-
-# Comprehensive docs
-
-# Code review
-
-# Version 1.0.0
-
-# Initial release
+ease
