@@ -643,3 +643,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## Demo Images
 
 ## Statistics
+
+## Author
