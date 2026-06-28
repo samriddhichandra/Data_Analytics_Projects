@@ -635,3 +635,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## Performance
 
 ## Testing
+
+## Scripts
