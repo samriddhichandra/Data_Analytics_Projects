@@ -641,3 +641,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## GitHub URL
 
 ## Demo Images
+
+## Statistics
