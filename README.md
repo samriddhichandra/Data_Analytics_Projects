@@ -625,3 +625,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## Churn Section
 
 ## Streaming Section
+
+## Tech Stack
