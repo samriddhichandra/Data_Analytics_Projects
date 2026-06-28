@@ -651,3 +651,5 @@ If you found this portfolio helpful, please consider giving it a star!
 # Comprehensive docs
 
 # Code review
+
+# Version 1.0.0
