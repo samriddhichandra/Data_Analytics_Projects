@@ -631,3 +631,5 @@ If you found this portfolio helpful, please consider giving it a star!
 ## Schema
 
 ## Usage
+
+## Performance
